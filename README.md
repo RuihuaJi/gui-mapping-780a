@@ -5,7 +5,7 @@ The mapped widgets in our dataset are collected by the authors from the real-wor
 
 
 
-The dataset contains **5258** mapped widgets and **959** screen pairs.
+The dataset contains **6,730** mapped widgets and **1,197** screen pairs.
 
 
 The dataset is used to assess vision-based widget mapping in cross-platform GUI test migration. 
