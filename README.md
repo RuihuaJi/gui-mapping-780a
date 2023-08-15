@@ -9,7 +9,7 @@ The dataset contains **6,730** mapped widgets and **1,197** screen pairs.
 
 
 The dataset is used to assess vision-based widget mapping in cross-platform GUI test migration. 
-For more technical details, please refer to our ASE 2023 papee.
+For more technical details, please refer to our ASE 2023 paper.
 
 
 
