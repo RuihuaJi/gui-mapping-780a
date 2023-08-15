@@ -1,11 +1,15 @@
 # Vision-based Widget Mapping for Test Migration across Mobile Platforms
-## Dataset Anonymization During Review
+## The Real-world Dataset
 
 The mapped widgets in our dataset are collected by the authors from the real-world apps, including the screenshots and XML layout files displaying the mapped widgets. 
 
-Some of these apps require user login, and personal information is displayed when running the apps. 
-These personal information will be captured by the screenshots and XML layout files, and it may violate the double-anonymity policy.
-To comply with this policy, the authors removed the screenshots and XML layout files containing their names and email addresses. 
 
-The resulting dataset contains approximately 80% of the original mapped widgets (**5258** mapped widgets and **959** screen pairs) at the current stage of the double-anonymous review process.
-The authors plan to update the open repository with the entire dataset once the double-anonymous review process is complete.
+
+The dataset contains **5258** mapped widgets and **959** screen pairs.
+
+
+The dataset is used to assess vision-based widget mapping in cross-platform GUI test migration. 
+For more technical details, please refer to our ASE 2023 papee.
+
+
+
