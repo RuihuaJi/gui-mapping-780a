@@ -1,4 +1,4 @@
-# gui-mapping-780a
+# Vision-based Widget Mapping for Test Migration across Mobile Platforms
 ## Dataset Anonymization During Review
 
 The mapped widgets in our dataset are collected by the authors from the real-world apps, including the screenshots and XML layout files displaying the mapped widgets. 
